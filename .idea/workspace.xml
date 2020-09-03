@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ada357b2-858b-4438-a567-f5d22aa3a800" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gyoBcsWfYk8qAUsUBcfnIfI0Tr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599098559970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599098559970" />
+    <state width="917" height="266" key="GridCell.Tab.0.bottom" timestamp="1599098998071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599098998071" />
+    <state width="917" height="266" key="GridCell.Tab.0.center" timestamp="1599098998071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599098998071" />
+    <state width="917" height="266" key="GridCell.Tab.0.left" timestamp="1599098998070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599098998070" />
+    <state width="917" height="266" key="GridCell.Tab.0.right" timestamp="1599098998071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599098998071" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1599098917307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1599098917307" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599099227872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1599099227872" />
+    <state x="654" y="343" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1599098988216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="343" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599098988216" />
+  </component>
+</project>
